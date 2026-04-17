@@ -94,7 +94,14 @@ This bridges the gap between:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here — REQUIRED)
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### SQL Explorer
+![SQL](screenshots/sql.png)
+
+### Policy Recommendations
+![Policy](screenshots/policy.png)
 
 ---
 
